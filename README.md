@@ -1,2 +1,2 @@
 # appsimages
-diretório de imagens de demonstração de lanches
+Diretório de imagens de demonstração de lanches
